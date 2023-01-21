@@ -2,7 +2,7 @@
 
 Welcome to the project. <br>
 I come through this project to put into **practice** methods **learned** on the Front-End, <br>
-created with **HTML, CSS3, JS** and Rest API consumption it is a presentation page. <br>
+created with **HTML, CSS3, JS** and **Rest API** consumption it is a presentation page. <br>
 
 ## Technologies (Project)
 ![html5](https://img.shields.io/badge/HTML5-1b1b1b?style=for-the-badge&logo=html5&logoColor=white) 
